@@ -1,4 +1,4 @@
-# Employee-Compensation-in-SF
+# Employee Compensation in SF
 This folder contains Employee Compensation dataset for the city of San Francisco, California and python script which analyses compensation, benefits, and their relationship with different departments of the city structure for years 2013-2016. A blog post describing this project in details is published at this website.
 # Installation
 The notebook uses Python Python 3.6.9. Other libraries used within the code are:
@@ -17,10 +17,10 @@ The model tries to predict the salary based on employee's rank, department, job 
 # File Description
 The files included in this project are:
 
-Salary_Employees_SF_linear_model.ipynb - Jupyter Notebook including the main project code.
-Employee_Compensation_SF_0.csv - csv file containing part 1 of Employee Compensation SF data
-Employee_Compensation_SF_1.csv - csv file containing part 2 of Employee Compensation SF data
-Employee_Compensation_SF_2.csv - csv file containing part 3 of Employee Compensation SF data
+ * Salary_Employees_SF_linear_model.ipynb - Jupyter Notebook including the main project code.
+ * Employee_Compensation_SF_0.csv - csv file containing part 1 of Employee Compensation SF data
+ * Employee_Compensation_SF_1.csv - csv file containing part 2 of Employee Compensation SF data
+ * Employee_Compensation_SF_2.csv - csv file containing part 3 of Employee Compensation SF data
 
 
 # Project Summary
