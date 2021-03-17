@@ -2,10 +2,12 @@
 This folder contains Employee Compensation dataset for the city of San Francisco, California and python script which analyses compensation, benefits, and their relationship with different departments of the city structure for years 2013-2016. A blog post describing this project in details is published at this website.
 # Installation
 The notebook uses Python Python 3.6.9. Other libraries used within the code are:
+
 Data Analysis
  * numpy (1.19.5)
  * pandas (1.1.5)
  * sklearn (0.22.2.post1)
+
 Data Visualisation
  * matplotlib (3.3.4)
  * seaborn (0.11.1)
