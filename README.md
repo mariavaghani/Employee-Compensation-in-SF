@@ -1,5 +1,5 @@
 # Employee Compensation in SF
-This folder contains Employee Compensation dataset for the city of San Francisco, California and python script which analyses compensation, benefits, and their relationship with different departments of the city structure for years 2013-2016. A blog post describing this project in details is published at this website.
+This folder contains Employee Compensation dataset for the city of San Francisco, California and python script which analyses compensation, benefits, and their relationship with different departments of the city structure for years 2013-2016. A blog post describing this project in details is published at [this website](https://maria-vaghani.medium.com/could-you-predict-salary-of-a-san-francisco-city-employee-9c67c5a3f05c).
 # Installation
 The notebook uses Python Python 3.6.9. Other libraries used within the code are:
 
