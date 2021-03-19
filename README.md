@@ -11,6 +11,8 @@ Data Analysis
 Data Visualisation
  * matplotlib (3.3.4)
  * seaborn (0.11.1)
+
+The main code for this project is divided into chapters. The very first chapter deals with setting up the original dataset into three parts in order to uploaded to Github in manageable sizes. If you already have the original dataset at hand (as it is already provided in the repository in three parts), you do not need to run this chapter and go straight to the "Business Questions" chapter. If you happen to download the original dataset from the source, you could start from the beginning, but skip the dividing part. going straight into analysis.
   
 # Project Motivation
 
